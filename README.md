@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-✨Welcome tyo my GitHub profile! Here you will find my public repositories, various Bootcamp challenges I completed through my course, and personal projects I will be working on to fine tune my skills. As I finished the course, I went back into a few repositories and tweaked the codes, or updated the ReadMe so that it would be easier to review and find.😄
+✨Welcome tyo my GitHub profile! Here you will find my public repositories, various Bootcamp challenges I completed through my course, and personal projects I will be working on to fine tune my skills. As I finished the course, I went back into a few repositories and tweaked the codes, or updated the ReadMe so that it would be easier to review and find.
 
-As time goes on, I will continue to add to my repositories, so come on back anytime to see how I've progressed.😄
+As time goes on, I will continue to add to my repositories, so come on back anytime to see how I've progressed.
 
 Thank you for stopping by! 😄
 <!--
